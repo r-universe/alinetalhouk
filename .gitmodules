@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diceR"]
+	path = diceR
+	url = https://github.com/alinetalhouk/dicer
+	shallow = true
+	registered = true
