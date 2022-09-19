@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "diceR",
+    "oncran": true
+  }
+]
