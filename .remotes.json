@@ -1,0 +1,8 @@
+[
+  {
+    "package": "mixedClust",
+    "url": "https://github.com/cran/mixedClust",
+    "via": ["diceR"],
+    "from": "diceR"
+  }
+]

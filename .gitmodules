@@ -5,3 +5,7 @@
 [submodule "diceR"]
 	path = diceR
 	url = https://github.com/alinetalhouk/dicer
+[submodule "mixedClust"]
+	path = mixedClust
+	url = https://github.com/cran/mixedClust
+	registered = false
